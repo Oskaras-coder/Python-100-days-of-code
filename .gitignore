@@ -1,3 +1,4 @@
-# Ignore all files in a venv directories
+# Ignore all files in a venv, .env, .idea directories
 venv/
 .env
+.idea
